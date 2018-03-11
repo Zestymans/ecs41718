@@ -7,6 +7,10 @@ body {
     color: #ffffff;
     text-align: center;
 }
+img {
+    max-width: 100%;
+    height: auto;
+}
 .jumbotron h1 {
     font-family: 'Press Start 2P', cursive;
     text-align: center;

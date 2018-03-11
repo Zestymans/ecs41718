@@ -2,6 +2,10 @@ body {
     background-image: url("https://lh3.googleusercontent.com/-SkPXlVF-Bvo/WpWTW1QfeoI/AAAAAAAAABQ/6IQcxnW_8aUGmPuOgxkExsMIUNx847jbQCJoC/w530-h215-n-rw/Screen%2BShot%2B2018-02-27%2Bat%2B11.10.26%2BAM.png");
     text-align: center;
 }
+img {
+    max-width: 100%;
+    height: auto;
+}
 .jumbotron {
     background-color: #ff0000;
     color: #ffffff;
